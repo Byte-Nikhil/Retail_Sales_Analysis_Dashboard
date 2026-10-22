@@ -18,12 +18,12 @@ A retail business has two years of transaction data but no quick way to see what
 ### Page 1 – Sales Performance
 KPI tiles, sales trend over time, and sales by time of day.
 
-![Sales Performance](screenshots/01_sales_performance.png)
+<img src="https://raw.githubusercontent.com/Byte-Nikhil/Retail_Sales_Analysis_Dashboard/main/Retail_Sales_Analysis_Dashboard/screenshots/01_sales_performance.png" alt="Sales Performance" width="100%">
 
 ### Page 2 – Customer & Category Insights
 Sales by gender and age group, category sales, and a profit treemap.
 
-![Customer & Category Insights](screenshots/02_customer_category_insights.png)
+<img src="https://raw.githubusercontent.com/Byte-Nikhil/Retail_Sales_Analysis_Dashboard/main/Retail_Sales_Analysis_Dashboard/screenshots/02_customer_category_insights.png" alt="Customer and Category Insights" width="100%">
 
 ## ✨ Key Features
 
